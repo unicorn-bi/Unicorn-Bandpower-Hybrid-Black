@@ -21,7 +21,7 @@ before using the Unicorn Bandpower.
 
 ## Status Bar
 <p align="left">
-<img src="./img/Statusbar.png" alt="drawing" width="200"/><br/>
+<img src="./img/Statusbar.png" alt="drawing" height="30"/><br/>
 </p>
 The following table represents the icons available in the status bar in the upper right corner
 <p align="center">
@@ -30,7 +30,7 @@ The following table represents the icons available in the status bar in the uppe
 
 ## Control Bar
 <p align="left">
-<img src="./img/Controlbar.png" alt="drawing" width="150"/><br/>
+<img src="./img/Controlbar.png" alt="drawing" height="30"/><br/>
 </p>
 
 The following table represents the icons available in the control bar in the upper left corner
@@ -65,9 +65,7 @@ The bandpower plot shows the estimated bandpower value for the defined frequency
 The Unicorn Bandpower application features a UDP interface. The IP address and port can be modified in the settings dialog. You can also enable or disable the UDP interface in this dialog. 
 The sampling rate of the bandpower features depends on the buffer size and buffer overlap configuration. The sampling rate can be determined as follows:
 
-<p align="center">
-<img src="./img/formula.png" alt="drawing" width="350"/><br/>
-</p>
+$$ f_{Bandpower} =  { f_{Unicorn} \over buffer size - bufferoverlap} [Hz] $$
 
 By default, the sampling rate of the Unicorn is 250 Hz, the buffer size of the bandpower buffer is 250 samples and the buffer overlap is set to 240 samples. These parameters result in a 25 Hz update rate of the bandpower features.
 
