@@ -87,18 +87,20 @@ The user will always receive a payload consisting of 70 values structured as des
 
 The bandpower feature payload sent via UDP is structured as following:
 <p align="center">
-<img src="./img/Payload1.png" alt="drawing" width="800"/><br/>
+<img src="./img/Payload1.png" alt="drawing" width="500"/><br/>
 </p>
 
-## UDP BandPower Receiver
-Requirements
-<p align="center">
-<img src="./img/SoftwareRequirement.png" alt="drawing" width="500"/><br/>
-</p>
-Files on your computer
-<p align="center">
-<img src="./img/FilesOnPC.png" alt="drawing" width="500"/><br/>
-</p>
+## UDP Bandpower Receiver
+
+### Requirements
+- NET Framework <br/> .NET Framework 4.8
+- Visual Studio<br/> Microsoft Visual Studio 2022
+
+### Files on your computer
+By default, the Unicorn .NET API library is installed into the Documents folder.
+- C:\Users\<username>\Documents\gtec\Unicorn Suite\Hybrid Black\Bandpower\ Bandpower UDP Receiver<br/>Standard installation folder for the Unicorn .NET API
+library
+
 The Unicorn Bandpower Receiver is an example of how to receive data from the Unicorn Bandpower UDP interface in C#. The application receives data from the Unicorn Bandpower application and prints received data to the console window. Users can create their own applications (e.g. neurofeedback applications) by using the UDP interface to get bandpower features.
 
 ## Recordings
