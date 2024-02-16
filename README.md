@@ -136,4 +136,5 @@ The csv columns are structured as following:
 <p align="center">
 <img src="./img/DataExcel.png" alt="drawing" width="500"/><br/>
 </p>
-The update rate of the bandpower features depends on the buffer size and buffer overlap configuration as described in 25.5. 
+
+The update rate of the bandpower features depends on the buffer size and buffer overlap configuration as described in [Settings](#settings)
