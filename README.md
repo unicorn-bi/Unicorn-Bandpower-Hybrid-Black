@@ -106,10 +106,10 @@ During the acquisition, the user can press the record button to start or stop re
 
 The csv columns are structured as following:
 <p align="center">
-<img src="./img/Recordings.png" alt="drawing" width="800"/><br/>
+<img src="./img/Recordings.png" alt="drawing" width="500"/><br/>
 </p>
 
 <p align="center">
-<img src="./img/DataExcel.png" alt="drawing" width="800"/><br/>
+<img src="./img/DataExcel.png" alt="drawing" width="500"/><br/>
 </p>
 The update rate of the bandpower features depends on the buffer size and buffer overlap configuration as described in 25.5. 
