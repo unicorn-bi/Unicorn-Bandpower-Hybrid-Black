@@ -18,8 +18,8 @@
 <img src="./img/UnicornBandPower.png" alt="drawing" width="500"/><br/>
 </p>
 
-## Starting Unicorn BandPower From the Unicorn Suite 
-The Unicorn Bandpower can be started from the Unicorn Suite. The Unicorn Bandpower is listed in the Unicorn Suite in the “Apps” section. Before you can start Unicorn Bandpower, the application must be unlocked using the license manager. The Unicorn Bandpower is licensed with the same license feature as the Unicorn Recorder. The Unicorn must be paired before using it with Unicorn Bandpower. If the Unicorn is paired, the serial number of the device should be listed in the drop-down box in the Unicorn Suite. Select the serial number and press open, then start the Unicorn Bandpower with the selected device.
+## Starting Unicorn Bandpower From the Unicorn Suite 
+The Unicorn Bandpower can be started from the Unicorn Suite. The Unicorn Bandpower is listed in the Unicorn Suite in the “Apps” section. The Unicorn must be paired before using it with Unicorn Bandpower. If the Unicorn is paired, the serial number of the device should be listed in the drop-down box in the Unicorn Suite. Select the serial number and press open, then start the Unicorn Bandpower with the selected device.
 
 <p align="center">
 <img src="./img/UnicornBandPowerStartMenu.png" alt="drawing" width="500"/><br/>
