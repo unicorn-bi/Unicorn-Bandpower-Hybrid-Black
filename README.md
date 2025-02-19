@@ -60,7 +60,7 @@ The signal quality scope provides feedback about the signal quality for each cha
 <p align="center">
 <img src="./img/MainPage2.png" alt="drawing" width="500"/><br/>
 </p>
-The bandpower plot shows the estimated bandpower value for the defined frequency ranges. The defined frequency ranges are delta (1-4 Hz), theta (4-8 Hz), beta low (12-16 Hz), beta mid (16-20 Hz), beta high (20-30 Hz) and gamma (30-50 Hz). The bandpower for each channel is displayed if the “Channels” tab is selected. The average bandpower of all channels is displayed if the “Average” tab is selected. The average bandpower of all possible bipolar derivations of the channels is displayed if the “Bipolar” tab is selected. The update rate of this plot depends on the buffer setting defined in the settings dialog:
+The bandpower plot shows the estimated bandpower value for the defined frequency ranges. The defined frequency ranges are delta (1-4 Hz), theta (4-8 Hz), alpha (8-12 Hz), beta low (12-16 Hz), beta mid (16-20 Hz), beta high (20-30 Hz) and gamma (30-50 Hz). The bandpower for each channel is displayed if the “Channels” tab is selected. The average bandpower of all channels is displayed if the “Average” tab is selected. The average bandpower of all possible bipolar derivations of the channels is displayed if the “Bipolar” tab is selected. The update rate of this plot depends on the buffer setting defined in the settings dialog:
 
 <p align="center">
 <img src="./img/MainPage3.png" alt="drawing" width="500"/><br/>
